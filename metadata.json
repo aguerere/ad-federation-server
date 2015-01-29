@@ -1,0 +1,9 @@
+{
+  "name": "Active Directory WS-Federation Server",
+  "type": "sample",
+  "tags": [
+    "active-directory",
+    "nodejs",
+    "javascript"
+  ]
+}
